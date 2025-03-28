@@ -1,0 +1,11 @@
+outline-color: red;
+
+#floats { 
+
+    background: #d41;
+}
+
+#floats #container {
+ background: white;
+ padding: 20px;
+}
